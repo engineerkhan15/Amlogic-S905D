@@ -1,0 +1,1 @@
+# Amlogic-S905D
